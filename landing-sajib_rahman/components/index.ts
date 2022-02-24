@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as Hero } from './Hero';
+export { default as Benefits } from './Benefits';
+export { default as SEOSpread } from './SEOSpread';
+export { default as Clients } from './Clients';
+export { default as Traffics } from './Traffics';
+export { default as TeamBenefits } from './TeamBenefits';
+export { default as ContactUs } from './ContactUs';
+export { default as Footer } from './Footer';

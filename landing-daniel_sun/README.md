@@ -1,4 +1,4 @@
-![Landing Page by Daniel Sun on dribbble.com](https://drive.google.com/uc?id=18JV7_d-vTKHTkL_IltjjODzt2Kx7NHTq)
+![Landing Page by Daniel Sun on dribbble.com](https://drive.google.com/uc?id=1qB_EUzMy4Ug5pxWeNn1VzFFp2Aj5iuh0)
 
 ## Getting Started
 

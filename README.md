@@ -30,6 +30,12 @@ This repository provided many designs implementation from dribbble.com into a re
 
 ![Landing Page by Vladimir Gruev](https://drive.google.com/uc?id=1bPi31JIexTeJ7IoJY3M4MuCwPrNOQIwq)
 
+### 5. Landing Page by Irfanaffian
+
+[Open in Dribbble](https://dribbble.com/shots/17304939/attachments/12418861?mode=media)
+
+![Landing Page by Irfanaffian](https://drive.google.com/uc?id=1cvU7QR94W3QvdR6YHw0uO7dk_6eOz1mJ)
+
 ## That's it!
 
 Hope you enjoy the designs, and learn something new. Happy Coding!
